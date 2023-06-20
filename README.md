@@ -5,6 +5,8 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chaltech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaltech&layout=compact&langs_count=6&theme=tokyonight"/>
 
+
+## Tecnologia que eu uso no meu dia-a-dia. 
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,8 +16,15 @@
 </div>
  
  <br>
- 
 
+ ## Links dos projetos rodando no navegador.
+- https://chaltech.github.io/Projeto-Pok-mon/
+- https://clone-tiktok---jornada.web.app/
+
+ <br>
+
+ 
+## Entre em contato comigo. 
  
 <div> 
  
