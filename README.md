@@ -26,7 +26,7 @@
 
  ## Links dos projetos rodando no navegador
 - https://chaltech.github.io/Projeto-Pok-mon/
-- https://clone-tiktok---jornada.web.app/
+
 
  <br>
 
